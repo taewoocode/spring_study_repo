@@ -1,5 +1,8 @@
 # spring_study_reop
 
+Spring-proxy-design
+https://github.com/taewoocode/spring_study_proxy
+
 스프링 AOP 학습
 https://github.com/taewoocode/spring_adv_study
 
